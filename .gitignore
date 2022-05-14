@@ -1,2 +1,4 @@
 data/
 submissions/
+encoder.h5
+autoencoder.h5

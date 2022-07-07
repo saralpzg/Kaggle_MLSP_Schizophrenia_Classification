@@ -1,4 +1,5 @@
 data/
 submissions/
-encoder.h5
-autoencoder.h5
+.ipynb_checkpoints
+__pycache__
+*.h5

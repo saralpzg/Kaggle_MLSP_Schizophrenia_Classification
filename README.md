@@ -20,3 +20,4 @@ Este repositorio recoge el código de todas las pruebas realizadas y técnicas i
   * ``RedesNeuronales - Optimización.ipynb``: pruebas para el entrenamiento de modelos de redes neuronales.
   * ``RedesNeuronales - Otras pruebas.ipynb``: aplicación de técnicas de ponderación de los errores de clasificación y de aprendizaje semi-supervisado para tratar de mejorar los resultados de las redes neuronales.
   * ``XGBoost.ipynb``: pruebas para el entrenamiento de modelos de xgboost.
+  * Dentro de esta carpeta también se pueden encontrar un par de ficheros de python. El archivo ``data_and_submissions.py`` contiene los métodos necesarios para cargar los datos y generar las predicciones que se publican en Kaggle. El archivo ``train_cv_methods.py`` contiene un conjunto de funciones que se utilizan en los entrenamientos con cross-validación.
